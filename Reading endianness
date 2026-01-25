@@ -1,0 +1,10 @@
+Prečítal som si /challenge/cimg.
+
+Všimol som si, že tam bol uvedený hexadecimálny kód.
+Skopíroval som ho do prevodníka na ASCII a všimol som si slovo „little“.
+
+Z toho som pochopil, že ide o little-endian zápis,
+tak som bajty zapísal v opačnom poradí.
+
+Po tejto úprave to už fungovalo
+a úloha reading endianness v pwn.college bola vyriešená.
